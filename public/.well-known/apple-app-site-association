@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "J2SE2DZN8R.com.eventmobi.poc",
+        "paths": ["/about/*"]
+      },
+      {
+        "appID": "J2SE2DZN8R.com.eventmobi.poc2",
+        "paths": ["*"]
+      }
+    ]
+  }
+}
